@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<!--<Row Tag="LOC_CIVILIZATION_CAT_CIV_CUSTOM_NAME" Language="en_US">-->
+		<Row Tag="LOC_CIVILIZATION_CAT_NAME" Language="es_ES">
+			<Text>Cataluña</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAT_DESCRIPTION" Language="es_ES">
+			<Text>Cataluña</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAT_ADJECTIVE" Language="es_ES">
+			<Text>Catalanes</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAT_DESCRIPTION_CAT_CIVILIZATION" Language="es_ES">
+			<Text>
+				Cataluña (Catalonha en occitano) es un país europeo del Mediterráneo occidental constituido como comunidad autónoma de España. Está situado en la costa noreste de la Península Ibérica limitando al norte con Andorra y Francia, al oeste con Aragón, al sur con Valencia y al este con el mar Mediterráneo. Cataluña es la parte más extensa del territorio histórico y cultural del Principado de Cataluña y de todo el conjunto de tierras de habla catalana o los Países Catalanes. Para diferenciarla del territorio histórico, a menudo se denomina Comunidad Autónoma de Cataluña. Con un estimado de 7.364.078 de habitantes de 2008, es la segunda comunidad autónoma más poblada de España, y agrupa el 51,55% de la población total de las comunidades donde el catalán es lengua propia.[NEWLINE] Cataluña fue una posesión del Imperio Romano que pasó a manos de los vasos y los alanos el siglo V. Los musulmanes la conquistaron el 712, pero fueron expulsados ​​de la orilla norte del Llobregat a finales del mismo siglo y el comienzo del siguiente con el apoyo de Carlomagno. Con el tiempo, los condes francos convertir Cataluña en un dominio independiente y se confederarse en 1137 con la Corona de Aragón, terminando la conquista de los territorios musulmanes de Cataluña en 1154. La Corona de Aragón se unió a la Corona de Castilla en 1476 y conservó sus instituciones autónomas de gobierno hasta el final de la Guerra de Sucesión Española en 1714, unos años después de su desmembramiento por la cesión al Reino de Francia del condado del Rosellón y parte del de la Cerdaña. En 1978, recuperó autonomía y se constituyó como comunidad autónoma del Reino de España.[NEWLINE] En la actualidad, Cataluña es una de las comunidades más ricas y prósperas de España.
+			</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_CAT_LOCATION" Language="es_ES">
+			<Text>Europa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAT_POPULATION" Language="es_ES">
+			<Text>
+				La población de Cataluña a 1 de enero de 2015 era de 7 504 008 habitantes,​ con un porcentaje de personas de origen inmigrante del 14,49%.[NEWLINE]La ciudad de Barcelona alberga a 1,6 millones de personas en 100 km² de superficie.[NEWLINE]Alrededor de la capital se acumulan dos millones y medio de personas más que residen en un radio de menos de 25 km respecto a la capital. En la primera corona metropolitana se encuentran las ciudades de Hospitalet de Llobregat, Badalona, Santa Coloma de Gramanet, y Cornellá. Las principales poblaciones de la segunda corona son Tarrasa, Sabadell, Mataró, Moncada y Reixach, Granollers, Martorell, Molins de Rey, San Felíu de Llobregat, Gavá y Casteldefels.[NEWLINE] En el área metropolitana de Barcelona se concentra una población que supera los cuatro millones de habitantes. La segunda aglomeración urbana de Cataluña es la formada por la aglomeración de Reus-Tarragona.[NEWLINE]El resto de la población de Cataluña se vertebra en la costa norte (Costa Brava), la costa sur (Costa Dorada), el valle del río Llobregat hasta Manresa, y las ciudades interiores de Lérida (al oeste) y Gerona (al noreste).[NEWLINE][NEWLINE] En Cataluña se hablan varias lenguas, siendo las principales el catalán y el castellano. De acuerdo con el Estatuto de Autonomía, ambos idiomas, junto al occitano (en su variante aranesa), son oficiales.​ Además, se considera al catalán lengua propia de Cataluña, en tanto que el occitano se considera lengua propia del Valle de Arán. Generalmente los catalanes son bilingües y conocen las dos lenguas principales aunque difieren respecto al idioma que tienen por lengua materna. Según los datos de 2013, el 99,7 % de los catalanes sabe hablar castellano en tanto que el 80,4 % sabe hablar catalán.30​ Además, el uso por cada hablante de uno u otro idioma depende con frecuencia del ámbito social en el que se exprese.
+			</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAT_SIZE" Language="es_ES">
+			<Text>
+				Ocupa un territorio de unos 32 000 km cuadrados que limita al norte con Francia (Occitania) y Andorra, al este con el mar Mediterráneo a lo largo de una franja marítima de unos 580 kilómetros,​ al sur con la Comunidad Valenciana, y al oeste con Aragón. Esta situación estratégica ha favorecido una relación muy intensa con los territorios de la cuenca mediterránea y con la Europa continental. Cataluña está formada por las provincias de Barcelona, Gerona, Lérida y Tarragona.
+			</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_CAT_CAPITAL" Language="es_ES">
+			<Text>Barcelona</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CAT_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>
+				Bajo el gobierno del conde Ramón Berenguer IV (1131-1162), se produjeron diferentes hechos fundamentales para la historia de Cataluña. El primero, su boda con Petronila de Aragón, lo que supuso la unión dinástica, del condado de Barcelona y del Reino de Aragón, por lo que con el tiempo el territorio común sería controlado por la Corona de Aragón. Como consecuencia de tal tipo de unión, los reinos, Estados, dominios o títulos así unidos no fueron integrados o fusionados, sino que las mismas personas poseían cada uno de ellos en forma independiente; y, por lo general los dominios del título mantenían sus propias instituciones y legislación (particularismo). Según lo acordado en las Capitulaciones matrimoniales de Barbastro en agosto de 1137, Ramón Berenguer pasó a ser el princeps o dominador de Aragón, ya que el rey aragonés Ramiro le hizo donación de su hija y de su reino para que la tuviera a ella y al reino en dominio «salva la fidelidad a mí y a mi hija»  y se retiró a la vida monástica. Según estas capitulaciones, Ramiro no cedía su dignidad real, esto es, que en adelante sería rey, señor y padre de Ramón Berenguer tanto en Aragón como en todos sus condados.[NEWLINE] Sin embargo, en noviembre del mismo año, 1137, Ramiro renunciaba a todo lo que se había reservado en las Capitulaciones de Barbastro.[NEWLINE][NEWLINE]La unión en la Corona de Aragón, del condado de Barcelona y el reino de Aragón no fue, pues, el fruto de una fusión ni de una conquista, sino el resultado de una unión dinástica pactada. De hecho, los territorios que compusieron la Corona mantuvieron por separado sus propias leyes, costumbres e instituciones, y los monarcas reinantes tuvieron que respetar estas bases.[NEWLINE]A nivel dinástico, existen diversas explicaciones en la historiografía actual sobre la continuidad de las casas gobernantes en la Corona unida. Así, algunos historiadores, como Ubieto o Montaner, creen que se produjo un prohijamiento por el cual Ramón Berenguer pasaba a ser un miembro más de la Casa de Aragón. En cambio, José Luis Villacañas​ o Vicente Salas Merino​ entre otros autores, consideran que la dinastía reinante entre 1162 y 1412 fue la Casa de Barcelona.[NEWLINE][NEWLINE]En lo sucesivo, Ramón Berenguer IV materializó las nuevas conquistas políticamente diferenciadas asignadas a título personal como marquesados. Conquistó Tortosa y Amposta en 1148, y Lérida en 1149 gracias a una ofensiva conjunta con el conde Ermengol VI de Urgel. Estos territorios fueron repoblados a lo largo del siglo XII y suelen recibir el nombre genérico de Cataluña Nueva, para distinguirlos de los antiguos condados carolingios que conformaban el área oriental de la Marca Hispánica, denominados Cataluña Vieja. La línea de separación entre ambas áreas geográficas suele establecerse en la línea delimitada por los ríos Llobregat, su afluente el Cardener, y el Segre.[NEWLINE][NEWLINE] A lo largo del segundo cuarto del siglo XIII se incorporan a la corona las Islas Baleares y Valencia. Este último territorio, el Reino de Valencia, pasó a convertirse en uno de los reinos de la Corona de Aragón, con Cortes propias y unos nuevos fueros: los Furs de València. En cambio, el territorio mallorquín, junto a los condados de Rosellón y Cerdaña, la ciudad de Montpellier y los señoríos de Omeladés y Carladés, sería entregado en herencia su segundo hijo, Jaime, y formarían el Reino de Mallorca, iniciándose así un periodo de tensión interna que concluiría con su anexión a la Corona de Aragón en 1343, por parte de Pedro IV el Ceremonioso. En 1258, 29 años después de la conquista del Reino de Mallorca y 20 después de la del Reino de Valencia se firma el Tratado de Corbeil en el que el Rey Luis IX de Francia renuncia a sus derechos sobre los condados catalanes pasando a formar parte de la Corona de Aragón y Jaime I a la mayor parte de los condados del norte de los pirineos.[NEWLINE][NEWLINE]El reinado de Pedro IV el Ceremonioso (1336-1387) se caracterizó por graves tensiones bélicas, entre las que se cuentan la anexión del reino de Mallorca, el sofocamiento de una rebelión sarda, de la rebelión de los unionistas aragoneses y valencianos y, sobre todo, la guerra con Castilla. Estos episodios generaron una delicada situación financiera, en un marco de crisis demográfica y económica, pero también un poderoso desarrollo institucional y legislativo, en el que destaca la creación de la Diputación General de Cataluña o Generalidad de Cataluña (1365). En 1375, una protesta de los representantes de Fraga ante las Cortes reunidas en Tamarite vuelve a desplazar el límite occidental de Cataluña, ya que esta ciudad vuelve a quedar bajo el fuero de Aragón[NEWLINE][NEWLINE] La muerte sin descendencia y sin el nombramiento de sucesor del rey Martín I el Humano en 1410 abrió, además, una grave crisis sucesoria. Ello abrió un periodo de interregno en el que aparecieron diversos candidatos al trono. Los intereses comerciales, así como la animadversión que despertaba Jaime de Urgel, acabarían favoreciendo al candidato de la dinastía castellana de los Trastámara, Fernando de Antequera, quien, tras el llamado Compromiso de Caspe de 1412, fue nombrado monarca de la Corona de Aragón. Con la llegada de la Casa Trastámara se comienza a introducir el Idioma español en Cataluña.[NEWLINE][NEWLINE]El reinado de Carlos I fue para Cataluña una etapa de armonía en la nueva estructura que formaban ahora los reinos hispánicos. En 1521 nombró Virrey de Cataluña al Arzobispo de Tarragona, Don Pedro Folch de Cardona, uniendo Besalú, Vallespir, Peralada, Ausona (Osona), Ampurias, Urgel y Cerdanya al resto de condados, siendo gobernados juntos por primera vez como región histórica unificada.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CAT_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>
+				En 1600, y ya desde 1580 la crisis económica había minado a los reinos peninsulares unificados bajo un solo rey. La crisis económica, los nuevos impuestos y las nuevas necesidades militares llevan a que se produzca un levantamiento popular en Cataluña. Las razones de fondo son de dos tipos, en primer lugar por las llamadas «causas antiguas» (reducción de los privilegios medievales de la nobleza desde la unión de Aragón y Castilla, no convocatoria y presidencia de las Cortes Catalanas, introducción de algunos de los impuestos que se pagaban en Castilla, y la introducción en Barcelona de la Inquisición nueva en sustitución de la vieja Inquisición que ya operaba desde la Edad Media, y que fue el modelo por el cuál se implantó la Inquisición en Castilla en la época de los Reyes Católicos); y «causas nuevas» (la presencia en territorio catalán de tropas extranjeras a sueldo del rey, considerando como tales a castellanas y aragonesas necesarias para defender las fronteras contra Francia en la guerra, pero nunca deseables en tu territorio, y el desempeño de cargos públicos por personas no catalanas. Y en segundo lugar por la política centralizadora del Conde-duque de Olivares, que pretendía unificar los reinos de Aragón y Castilla, reorganizar y subir el pago de impuestos para mantener la guerra de los treinta años. Se pueden resumir los principales problemas en crisis económica, el malestar de la guerra, la presencia de tropas para proteger la frontera contra Francia, dadas a los abusos de los ejércitos de la época; y la petición de nuevos impuestos y levas para mantener el esfuerzo militar durante la guerra.[NEWLINE][NEWLINE]Durante la guerra existente entre Francia y España desde 1635, los franceses invadieron el Rosellón al mando de Condé y se apoderaron de la villa y la plaza de Salses. Los catalanes levantaron sus somatenes y formaron, con ayuda de soldados reales, un ejército de 25.000 a 30.000 soldados al mando del virrey Santa Coloma, que recuperó la plaza el 6 de enero de 1640, tras lo que Olivares pretendió llevar la guerra al interior de Francia y forzar la paz. Con esta intención se ordenó una leva forzosa de unos 5000 soldados catalanes, enervando aún más los ánimos, con lo que a mediados de marzo los conselleres (Pau Claris) y la Diputación empredieron negociaciones secretas con el Cardenal Richelieu, primer ministro de Francia, que fueron ratificadas a finales de mayo.[NEWLINE]El 6 de junio, que era la festividad de Corpus (día que posteriormente ha sido recordado con el nombre de Corpus de Sangre), los segadores entraron en la ciudad de Barcelona en busca de trabajo en la siega, siendo acompañados por rebeldes armados, cometiendo distintos saqueos y asesinatos, con una respuesta de los soldados del rey que apresan a un segador prófugo de la justicia por asesinato. La resistencia de los segadores contra la detención de su compañero, los disturbios y combates posteriores y los incidentes sangrientos dan origen a la guerra civil entre los catalanes realistas y los catalanes independentistas y que simpatizaban con el espíritu del levantamiento, aunque el levantamiento comenzó en un primer momento como una revuelta contra las tropas del rey, contra la nobleza y la burguesía, que sufrieron numerosos asaltos, saqueos y asesinatos a manos de los levantados en los primeros momentos.[NEWLINE]El embajador francés, Du Plessis Besancon, se reunió en Barcelona con el presidente de la Generalidad, Pau Claris, con la intención de convertir a Cataluña en república independiente bajo la protección de Francia. Se alcanzó un acuerdo mediante la firma del tratado el 16 de diciembre de 1641 y Cataluña se sometió a la soberanía del rey Luis XIII de Francia.[NEWLINE][NEWLINE]A finales de 1642 murió Richelieu y, pocos meses después, el rey Luis XIII. Por su parte, Felipe IV prescindió del Conde-duque de Olivares. Todo ello marcó un cambio de tendencia en la guerra y, aunque las tropas francesas entraron en Cataluña como aliados de los catalanes, pronto fue evidente para éstos que los soldados franceses se comportaban de igual modo a como lo habían hecho los de Felipe IV.[NEWLINE]En 1651 don Juan José de Austria puso sitio a Barcelona recuperando en menos de un año Mataró, Canet, Calella, Blanes, San Feliu de Guíxols y Palamós. La Diputación general reconoció a Felipe IV, provocando la huida de Margarit (presidente de la Diputación tras la muerte de Clarís) y sus partidarios a Francia. La ciudad, en estado de peste después de un año de asedio, se rindió a don Juan de Austria el 11 de octubre de 1652, poco después, el 3 de enero de 1653, Felipe IV confirmó los fueros catalanes, con algunas reservas.[NEWLINE][NEWLINE] El fin de la guerra se saldó con la anexión del Rosellón, el Conflent, el Vallespir y parte de la Cerdaña a la corona francesa, anexión confirmada en el Tratado de los Pirineos (1659), aunque en la Cataluña transpirenaica francesa los fueros catalanes fueron derogados en 1660 y el uso del catalán poco después, incumpliendo el rey Luis XIV de Francia este tratado.[NEWLINE]El Tratado de los Pirineos o Paz de los Pirineos fue firmado el 7 de noviembre de 1659 por parte de los representantes de Felipe IV de Castilla, Luis de Haro y Pedro Coloma, y los de Luis XIV de Francia, el Cardenal Mazarino y Hugues de Lionne, en la isla de los Faisanes (río Bidasoa), poniendo fin al litigio de la Guerra de los Treinta Años. Una de las consecuencias de este tratado fue la cesión a Francia del condado del Rosellón y parte del de la Cerdaña.​[NEWLINE]Felipe IV negoció este tratado sin consultar las Cortes Catalanas ni los afectados. De hecho, se lo escondió oficialmente hasta las Cortes de Barcelona de 1702, aunque fue público y notorio desde 1660, tal como consta en el Dietario de la Generalidad, donde la Diputación del General tuvo que hacer una embajada al Virrey de Cataluña para «darle la enhorabuena de la feliz nueva del ajuste de las paces entre España y Francia».23​ Los territorios afectados conspiraron durante años para volver a unirse con el Principado, y las autoridades catalanas también se resistieron a aceptar la partición, que no pudo hacer efectiva hasta el año 1720.[NEWLINE]El territorio catalán se dividía así en contra de la voluntad de las instituciones catalanas.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CAT_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>
+				Con la muerte del rey Carlos II y su sucesión por parte de Felipe V (1700), nieto de Luis XIV (proclamado conde de Barcelona por la sublevación de 1640) se instaló en el trono hispánico una nueva dinastía, la Casa de Borbón, reinante en Francia, que sustituía a la de los Habsburgo[NEWLINE][NEWLINE]Aunque en Cataluña se aceptó inicialmente a Felipe V, y éste había jurado y prometido guardar sus fueros, las clases dirigentes catalanas fueron desconfiando por lo que percibían como formas absolutistas y centralistas del nuevo monarca, así como por la política económica pro-francesa.[NEWLINE][NEWLINE]La oposición al monarca que culminó con el ingreso del Principado (pacto de Génova) y de toda la Corona de Aragón (salvo el Valle de Arán y algunas ciudades), en la Alianza de la Haya. Así, mientras en los reinos de Castilla y de Navarra Felipe V era comúnmente aceptado, en la Corona de Aragón, Carlos, instalado en Barcelona tras haberla invadido con el Sitio de Barcelona (1705), era reconocido como rey con el nombre de Carlos III. Aunque el apoyo al archiduque en la Corona de Aragón no fue unánime (ciudades como Cervera permanecieron fieles a Felipe V), sí fue abrumadoramente mayoritario.[NEWLINE][NEWLINE]La guerra se desarrolló en Europa y en la península con diversas alternancias para ambos bandos. Sin embargo, Gran Bretaña se conformaba con la obtención de nuevas bases navales (Gibraltar y Menorca) y con que los borbones no acumulasen los numerosos territorios de las dos coronas. La causa de Carlos perdió apoyos y el propio pretendiente perdió interés al heredar la corona de Austria. Los tratados de Utrecht (1713) y de Rastatt (1714) dejaron a la Corona de Aragón internacionalmente desamparada frente al poderoso ejército franco-castellano de Felipe V, quien ya había manifestado su intención de suprimir las instituciones tradicionales. A pesar de la resistencia a ultranza, como ocurrió con Aragón y Valencia (1707), todo el territorio catalán fue invadido y Barcelona finalmente capituló el 11 de septiembre de 1714.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CAT_CHAPTER_HISTORY_PARA_4" Language="es_ES">
+			<Text>
+				El 14 de abril de 1931, el mismo día en que se proclamaba la República en Madrid, Francesc Macià proclamaba desde el balcón de la antigua Generalidad de Cataluña la República Catalana dentro de una federación de pueblos ibéricos. El hecho motivó preocupación fuera de los círculos nacionalistas, siendo solucionado con la restauración de la Generalidad de Cataluña. La posterior aprobación de la Constitución republicana que, tras enconados debates reconoció la posibilidad de autonomía regional, permitió la aprobación del Estatuto de Autonomía de Cataluña de 1932. Los diputados catalanes elaboraron un Estatuto aprobado en referéndum el 2 de agosto de 1931 y modificado y aprobado en las Cortes Españolas el 12 de septiembre de 1932. Con el estatuto aprobado, el 20 de noviembre de 1932 se hicieron las únicas elecciones al Parlamento de Cataluña del periodo republicano para constituir las instituciones y pasar de un gobierno provisional a un gobierno estatutario con Francesc Macià ratificado como Presidente y Lluís Companys como Presidente del Parlamento. En su virtud fueron instaurados un gobierno y un parlamento autónomos en Cataluña. Macià fue investido primer presidente de la Generalidad, cargo que desempeñó hasta su muerte en diciembre de 1933. Fue sustituido en el cargo por Lluís Companys.[NEWLINE][NEWLINE]El 6 de octubre de 1933 Companys proclamó «el Estado Catalán de la República Federal española». Carente del apoyo del movimiento obrero y contando con las únicas fuerzas de los Mozos de Escuadra y milicianos de su propio partido, el levantamiento fue sofocado por el Capitán General Domingo Batet. El gobierno español suspendió las instituciones autónomas catalanas, nombrando un ejecutivo provisional con participación de la Liga Catalana y los radicales. La autonomía fue restablecida tras las elecciones parlamentarias de 1936, que llevaron al poder a los partidos de izquierda agrupados en el Frente Popular, y que supusieron la amnistía para los participantes en la tentativa revolucionaria y la vuelta de Companys al gobierno catalán. En el período republicano el gobierno catalán en gran parte continuó y amplió la política educativa de la Mancomunidad de Cataluña. Tuvo muchas dificultades financieras y la cesión de competencias no se acabó nunca de hacer en su totalidad. En general este período constituyó un ensayo y una lección histórica para la realización posterior de la Generalidad de 1977.[NEWLINE][NEWLINE]El franquismo (1939-1975) supuso en Cataluña, como en el resto de España, la anulación de las libertades democráticas, la prohibición y persecución de los partidos políticos (salvo Falange Española Tradicionalista y de las JONS), la clausura de la prensa no adscrita a la dictadura militar y la eliminación de las entidades de izquierdas. Además, se suprimieron el Estatuto de Autonomía y las instituciones de él derivadas, y se persiguió con sistematicidad la lengua y la cultura catalanas, sobre todo en la administración, en los medios de comunicación, en la escuela, en la universidad, en la señalización pública y en general en toda manifestación pública. El catalán fue excluido de la esfera pública y administrativa y quedó reducido al uso familiar y vecinal. El castellano pasó a ser la única lengua de la enseñanza, de la administración y de los medios de comunicación. La situación se agravó por las grandes oleadas inmigratorias de castellanoparlantes del siglo XX, sobre todo las de los años 60 y 70, procedentes del resto de España, sobre todo de Andalucía y Extremadura, y que en gran parte se concentraron en el área metropolitana de Barcelona. Todo esto provocó un gran retroceso del uso social del catalán y de su conocimiento, hasta el punto que en Cataluña el castellano superó al catalán como lengua materna por primera vez en su historia. En Cataluña el factor más importante del bilingüismo social es la inmigración desde el resto de España en el siglo XX. Se ha calculado que, sin migraciones, la población de Cataluña habría pasado de unos 2 millones de personas en 1900 a 2,4 en 1980,  en vez de los más de 6,1 millones censados en esa fecha (y superando los 7,4 millones en 2009); es decir, la población sin migración habría sido solamente el 39 % en 1980.[NEWLINE][NEWLINE]Los vencidos fueron desvertebrados. A los numerosos muertos durante la guerra hay que sumar los que fueron fusilados tras la victoria franquista, como el propio presidente Lluís Companys;[NEWLINE][NEWLINE]Tras la primera etapa de economía autárquica, en la década de los años 1960 la economía entró en una etapa de modernización agrícola, de incremento de la industria y recibió el impacto del turismo de masas. Cataluña fue también una de las metas del movimiento migratorio, que dio a Barcelona y a las localidades de su entorno un crecimiento acelerado. También se desarrolló fuertemente la oposición antifranquista, cuyas manifestaciones más visibles en el movimiento obrero fueron Comisiones Obreras, desde el sindicalismo, y el PSUC.[NEWLINE][NEWLINE]En la década de los años 1970, el conjunto de fuerzas democráticas se unificaron alrededor de la Asamblea de Cataluña. El 20 de noviembre de 1975 falleció el dictador Franco, hecho que abriría un nuevo período en la historia de Cataluña.[NEWLINE][NEWLINE]Globalmente, la casi total exclusión del catalán del sistema educativo y las severas limitaciones a su uso en los medios de comunicación de masas durante todos estos años, tuvo consecuencias de larga duración y que estarían presentes años después del final de la dictadura, como se observa en las altas tasas de analfabetismo en catalán que se da entre las generaciones escolarizadas en esos años: en 1996 solo un tercio del tramo de edad comprendido entre los 40 y los 44 años era capaz de escribir en catalán, hablado por el 67 % de los censados, cifras que descendían al 22 % de los mayores de 80 años capaces de escribirlo con un 65 % de hablantes
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CAT_CHAPTER_HISTORY_PARA_5" Language="es_ES">
+			<Text>
+				Con la muerte del general Franco, se inició el periodo conocido como transición democrática, a lo largo del cual se irían alcanzando las libertades básicas, consagradas por la Constitución española de 1978. En ella se reconoce la existencia de comunidades autónomas dentro de España, lo que da lugar a la formulación del Estado de las Autonomías.[NEWLINE][NEWLINE]Tras las primeras elecciones generales, en 1977, se restauró provisionalmente la Generalitat, gracias al impulso de la sociedad civil catalana (representada por la masiva manifestación que tuvo lugar en Barcelona el 11 de septiembre de ese año) y la iniciativa del Gobierno de Adolfo Suárez, apoyada por el rey y las altas instancias del Estado.[NEWLINE][NEWLINE]Josep Tarradellas, que había preservado la legalidad del autogobierno catalán como Presidente en el exilio, tras declarar su adhesión al rey y al proceso de reforma política. Tarradellas constituyó un gobierno autónomo provisional compuesto por representantes de las fuerzas más relevantes en aquel momento.[NEWLINE][NEWLINE]En 1979, se aprobó finalmente un nuevo Estatuto de Autonomía de Cataluña, netamente superior al de 1932 en algunos aspectos como enseñanza y cultura, pero inferior en otros como justicia, finanzas y orden público. En él, Cataluña se define como «nacionalidad», se reconoce el catalán como «lengua propia de Cataluña» y alcanza la oficialidad junto al castellano.[NEWLINE][NEWLINE]Las elecciones autonómicas del 28 de noviembre de 2010 dieron de nuevo la victoria a Convergència i Unió, por lo que su candidato y cabeza de lista por Barcelona, Artur Mas, fue investido como presidente de la Generalidad el 23 de diciembre de ese mismo año. Pero esta legislatura acabó en fracaso después del rechazo del gobierno de Rajoy al pacto fiscal, la promesa electoral de Artur Mas y que buscaba terminar el déficit fiscal de Cataluña con un sistema parecido al concierto vasco.[NEWLINE][NEWLINE]Influido por la presión callejera ante el malestar social y el creciente independentismo plasmado en la mayor manifestación de la historia de Cataluña en el 11 de septiembre de 2012 y que pedía la independencia de Cataluña,  el presidente Artur Mas convocó unas nuevas elecciones, confiando en una posible mayoría absoluta para convocar un referéndum por la autodeterminación de Cataluña. Mas ganó las elecciones, pero perdió 12 escaños. Aun así, consiguió llegar a un acuerdo de gobernabilidad con ERC, el gran ganador de las elecciones ya que se había convertido en el segundo partido en escaños (siendo tercero en votos tras el PSC), por primera vez en la historia postfranquista. Este acuerdo dio lugar a la convocatoria de un referéndum por la autodeterminación de Cataluña en 2014, el cual fue condenado por el TSJC.[NEWLINE][NEWLINE]El 27 de septiembre de 2015 se celebraron unas nuevas elecciones autonómicas que las fuerzas independentistas denominaron «plebiscitarias». Las consecuencias políticas del proceso independentista produjeron la ruptura de CiU y la integración de CDC y ERC en una coalición llamada Junts pel Sí, ganadora de las elecciones pero sin mayoría absoluta. Las dos nuevas fuerzas emergentes de Cataluña fueron Ciudadanos y CUP (llave de la gobernabilidad en el nuevo Parlament).
+			</Text>
+		</Row>
+		
+		
+		
+		<!--Cities-->
+		<Row Tag="LOC_CITY_NAME_CAT_0" Language="es_ES">
+			<Text>Barcelona</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_1" Language="es_ES">
+			<Text>Tarragona</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_2" Language="es_ES">
+			<Text>Girona</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_3" Language="es_ES">
+			<Text>Lleida</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_4" Language="es_ES">
+			<Text>Terrassa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_5" Language="es_ES">
+			<Text>Sabadell</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_6" Language="es_ES">
+			<Text>Reus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_7" Language="es_ES">
+			<Text>Manresa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_8" Language="es_ES">
+			<Text>Sant Cugat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_9" Language="es_ES">
+			<Text>Castelldefels</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_10" Language="es_ES">
+			<Text>Mataro</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_11" Language="es_ES">
+			<Text>Vilanova i la Geltru</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_12" Language="es_ES">
+			<Text>Rubi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_13" Language="es_ES">
+			<Text>Mollet del Valles</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_14" Language="es_ES">
+			<Text>Sant Boi del Llobregat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_15" Language="es_ES">
+			<Text>Granollers</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_16" Language="es_ES">
+			<Text>Cerdanyola del Valles</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_17" Language="es_ES">
+			<Text>Badalona</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_18" Language="es_ES">
+			<Text>Viladecans</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_19" Language="es_ES">
+			<Text>Santa Coloma de Gramanet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_20" Language="es_ES">
+			<Text>Hospitalet del Llobregat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_21" Language="es_ES">
+			<Text>Cornella del Llobregat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_22" Language="es_ES">
+			<Text>Empurias</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_23" Language="es_ES">
+			<Text>Roses</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_24" Language="es_ES">
+			<Text>Blanes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_25" Language="es_ES">
+			<Text>Vic</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_26" Language="es_ES">
+			<Text>Tortosa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_27" Language="es_ES">
+			<Text>Berga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_28" Language="es_ES">
+			<Text>Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_29" Language="es_ES">
+			<Text>Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAT_30" Language="es_ES">
+			<Text>Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch</Text>
+		</Row>
+		
+		
+		
+		<!--Citizens-->
+		<Row Tag="LOC_CITIZEN_CAT_MALE_1" Language="es_ES">
+			<Text>Josep</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MALE_2" Language="es_ES">
+			<Text>Francisco</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MALE_3" Language="es_ES">
+			<Text>Pau</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MALE_4" Language="es_ES">
+			<Text>Joan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MALE_5" Language="es_ES">
+			<Text>Anton</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MALE_6" Language="es_ES">
+			<Text>Pere</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MALE_7" Language="es_ES">
+			<Text>Ramó</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MALE_8" Language="es_ES">
+			<Text>Pablo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MALE_9" Language="es_ES">
+			<Text>Some Guy</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_1" Language="es_ES">
+			<Text>Marc</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_2" Language="es_ES">
+			<Text>Àlex</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_3" Language="es_ES">
+			<Text>Jaume</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_4" Language="es_ES">
+			<Text>Martí</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_5" Language="es_ES">
+			<Text>Biel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_6" Language="es_ES">
+			<Text>Eric</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_7" Language="es_ES">
+			<Text>Pol</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_8" Language="es_ES">
+			<Text>Pau</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_9" Language="es_ES">
+			<Text>Nil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_MALE_10" Language="es_ES">
+			<Text>Leo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_1" Language="es_ES">
+			<Text>Marina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_2" Language="es_ES">
+			<Text>Josefa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_3" Language="es_ES">
+			<Text>Carme</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_4" Language="es_ES">
+			<Text>Teresa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_5" Language="es_ES">
+			<Text>Francisca</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_6" Language="es_ES">
+			<Text>Antònia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_7" Language="es_ES">
+			<Text>Rosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_8" Language="es_ES">
+			<Text>María</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_9" Language="es_ES">
+			<Text>Magdalena</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_FEMALE_10" Language="es_ES">
+			<Text>Paula</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_1" Language="es_ES">
+			<Text>Martina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_2" Language="es_ES">
+			<Text>Júlia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_3" Language="es_ES">
+			<Text>Laia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_4" Language="es_ES">
+			<Text>Lucía</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_5" Language="es_ES">
+			<Text>Emma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_6" Language="es_ES">
+			<Text>Noa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_7" Language="es_ES">
+			<Text>Paula</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_8" Language="es_ES">
+			<Text>Aina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_9" Language="es_ES">
+			<Text>Ona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CAT_MODERN_FEMALE_10" Language="es_ES">
+			<Text>Carla</Text>
+		</Row>
+		
+		
+		
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_CAT_FRANCESC_MACIA_NAME" Language="es_ES">
+			<Text>Francesc Macià</Text>
+		</Row>
+
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CAT_FRANCESC_MACIA" Language="es_ES">
+			<Text>
+				Sentiu-la, la joia d’aquest moment! I, amb ella, la vostra responsabilitat, i la vostra glòria. Hi ha un poble alçat al voltant vostre. Escolteu la seva vibració! Recolliu els seus anhels! Realitzeu les seves esperances! Res ni ningú no pot privar-vos, ara, de plasmar-li aquella Catalunya, que, salvant-lo de la inquietud del viure, el meni cap als ideals!Som, per l'unànime voler del poble, en l'autèntic camí de les llibertats de Catalunya. Inclinem-nos en començar-lo davant els que el fressaren i no l'han pogut petjar. Fem-lo, entre tots, més ample i més segur. No donem un pas en fals, ni mai cap passa enrera. Que ens porti on el cor ens diu que vol anar Catalunya.
+			</Text>
+		</Row>
+		
+		<!-- BUILDINGS -->
+		<Row Tag="LOC_BUILDING_SAGRADA_FAMILIA_NAME" Language="es_ES">
+			<Text>Sagrada Familia</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SAGRADA_FAMILIA_DESCRIPTION" Language="es_ES">
+			<Text>Genera +4 [ICON_CULTURE], +2 [ICON_GreatEngineer], +10 [ICON_GOLD], +20% al [ICON_Tourism] en todas las ciudades +1 en atractivo </Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SAGRADA_FAMILIA_QUOTE" Language="es_ES">
+			<Text>[NEWLINE]"La Gloria es la luz, la luz da gozo y el gozo es la alegría del espíritu."[NEWLINE] - Gaudi[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_SAGRADA_FAMILIA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>
+				Sagrada Familia es una basilica catolica actualmente en construcción en Barcelona, España. La construcción empezó en 1882 y se espera que este terminada en el 2026. Actualmente la basilica tiene solo 8 columlas, aunque el diseño original tiene 18. Apesar de no estar acabada ha ganado el reconocimiento de la UNESCO y del Vaticano, siendo proclamada como patrimonio mundial de la UNESCO. [NEWLINE][NEWLINE] Durante la construcción, la basilica se ha enfrentado a amenazas constantes. Durante la Guerra Civil española en los años 30 la basilica fue dañada, y en el 2010 se construyo un tunel para el tren de alta velocidad, pasando por debajo de la basilica. Ingenieros y constructores creen que el tunnel afectara directamente en la integridad de la construcción.
+			</Text>
+		</Row>
+		
+		
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_TITLE" Language="es_ES">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_SUBTITLE" Language="es_ES">
+			<Text>President de la 2º Repùblica Catalana</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_QUOTE" Language="es_ES">
+			<Text>
+				Així heu de voler Catalunya políticament, lliure[NEWLINE]
+				socialment, justa[NEWLINE]
+				economicament, prospera i[NEWLINE]
+				espiritualment, gloriosa.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>
+				Francesc Macià i Llussà,​​ (Villanueva y Geltrú, 21 de septiembre de 1859-Barcelona, 25 de diciembre de 1933),​ fue un político y militar español de ideología republicana e independentista catalana, teniente coronel del Ejército de Tierra, presidente de la Generalidad de Cataluña y uno de los fundadores de los partidos Estat Català y Esquerra Republicana de Catalunya; fue sucedido al frente de este último por Lluís Companys tras su muerte a los 74 años.[NEWLINE]A los quince años ingresó en la Academia de Ingenieros de Guadalajara. Termina su formación tras cinco años y pasa destinado como teniente a Madrid en la sección de telegrafía. Fue destinado a Sevilla con el grado de capitán (1882) y después a Lérida, donde llegaría a teniente coronel.[NEWLINE]Se casó con Eugenia Lamarca en 1888, hija de terratenientes leridanos.[NEWLINE]Sin embargo tuvo que salir de la institución militar después de condenar el ataque de algunos oficiales del ejército al semanario La Veu de Catalunya en 1905. (Asaltaron la imprenta en la que se elaboraba el semanario que había publicado una caricatura que consideraron vejatoria para los oficiales destinados en Cataluña, la revista satírica el Cu-cut y justo después el emplazamiento de la Liga Regionalista.[NEWLINE]En vez de tomarse medidas contra los militares se les dio la razón y a los autores de la caricatura se les juzgó por un tribunal militar). Este hecho llevó a que se crease Solidaritat Catalana, y Macià comenzó su actividad política.[NEWLINE]Se presenta a diputado en las elecciones del 21 de abril de 1907 por Solidaritat Catalana representando a Barcelona, obteniendo escaño con un gran éxito para su formación política (44 de 47 diputados de Cataluña). Volverá a ser elegido en 1914, 1916, 1918, 1919, 1920 y 1923. En el Congreso se dedica inicialmente a promover la regeneración de España aunque irá deslizándose hacia el republicanismo.[NEWLINE]A finales del año 1918 fundó la Federació Democràtica Nacionalista, una pequeña formación nacionalista fundamentalmente situada dentro la izquierda política, aunque no exenta de afinidad con las huestes carlistas.​ En julio de 1922 protagonizó la fundación de una organización paramilitar, Estat Català.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_CHAPTER_HISTORY_PARA_2" Language="es_ES">
+			<Text>
+				En 1923, tras el golpe de estado de septiembre de 1923 por parte de Miguel Primo de Rivera, se exilió en Francia.​ Asentado inicialmente en Perpiñán, se trasladaría a finales de año en París, previo paso por Châteauroux.​ Es en esta época cuando desde Estat Català desarrolla su carácter insurreccional manteniendo contacto con anarquistas y comunistas, consigue la ayuda económica de las comunidades de catalanes residentes en Sudamérica y presta apoyo a casi todos los intentos insurreccionales en España.[NEWLINE]En 1925 efectuó un fallido viaje a Moscú para tratar de recabar ayuda de las autoridades comunistas, manteniendo encuentros con Grigori Zinóviev y Nikolái Bujarin.[NEWLINE]En 1926 durante la dictadura de Miguel Primo de Rivera organizó una incursión armada de voluntarios —el denominado «complot de Prats de Molló»— para invadir Cataluña desde Francia, provocar una insurrección general y proclamar una república catalana; la expedición, deficientemente preparada, no llegó a cruzar la frontera franco-española al ser detenida por la Gendarmería francesa en Prats de Molló. Esto le hará ganar mucha popularidad en Cataluña. Abortado el complot, Macià fue detenido y desterrado a Bélgica. Tras residir unos cuantos meses en Bruselas, entró clandestinamente a Argentina, donde residió más de medio año. Tras efectuar visitas a las comunidades de catalanes en Uruguay, Argentina y Chile llegó a Cuba en agosto de 1928.13​ Fundó en La Habana el Partido Separatista Revolucionario de Cataluña, del cual fue presidente y en el que estudió por primera vez la posibilidad de constituir una República Catalana (septiembre-octubre de 1928). Caída la dictadura del general Primo de Rivera (enero de 1930), Macià regresa a España finalmente el 22 de febrero de 1931.[NEWLINE]Fue elegido diputado a Cortes en 1931 y en 1933. En 1931 Estat Català se unió con el Partit Republicà Català de Lluís Companys, y el grupo L'Opinió para fundar un nuevo partido Esquerra Republicana de Catalunya, manteniendo autonomía interna.[NEWLINE]
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_CHAPTER_HISTORY_PARA_3" Language="es_ES">
+			<Text>El 14 de abril de 1931, después de unas elecciones municipales que dieron la mayoría a su nuevo partido, Esquerra Republicana de Catalunya, Macià proclamó la República Catalana desde el Palacio de la Generalidad de Cataluña.​ La proclamación de la República Catalana por parte de Macià abrió un conflicto con el recién constituido Gobierno provisional de la República. Para resolverlo, tres días después, tres ministros del Gobierno provisional (los ministros Marcelino Domingo, Nicolau d'Olwer y Fernando de los Ríos,) llegaban a Barcelona para negociar, alcanzando un acuerdo por el que Macià renunciaba a la República Catalana a cambio del compromiso del Gobierno provisional de que presentaría en las futuras Cortes Constituyentes un estatuto de autonomía para Cataluña, y que el Gobierno de Cataluña utilizaría en adelante la denominación de Generalitat.​</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_CHAPTER_HISTORY_PARA_4" Language="es_ES">
+			<Text> Con la creación del Parlamento Catalán fue elegido diputado de este por dos circunscripciones diferentes, Lérida y Barcelona ciudad; teniendo que renunciar a una de las actas.​ Fue elegido presidente de la Generalidad con 63 votos a favor en el parlamento regional el 14 de diciembre de 1932. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_CHAPTER_HISTORY_PARA_5" Language="es_ES">
+			<Text>Se mantuvo en el cargo hasta su muerte, acaecida en 1933. Fue sustituido al frente de la Generalidad de Cataluña por Lluís Companys.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CAT_FRANCESC_MACIA_CHAPTER_HISTORY_PARA_6" Language="es_ES">
+			<Text>-</Text>
+		</Row>
+		
+		
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Encantado de conoceros!</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Cuando lo desee esta usted invitado a venir a Cataluña.</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Estaré encantado de visitar su maginifico país.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Le agradezco la información y valoro muy positivamente cooperación entre nosotros.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Déu vos guard.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Encantado de seguir manteniendo magnificas relaciones con su país.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>No puedo aceptar su delegación.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Me encantaria que recibiera a nuestra delegación</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Su gente es bienvenida en nuestra tierra.</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Su gente es non grata en nuestra tierra. </Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Me gustaria que los catalanes puedan cruzar sus tierras.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Claro! Mis ciudadanos estaran encantados de tenerlos como amigos.</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>No puedo aceptar su propuesta, pero espero poder mejorar las relaciones entre nuestros pueblos.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Me encantaria poder explicar al mundo que somos pueblos hermanos.</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Siempre es un placer negociar con usted.</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Siento que no hayamos podido llegar a un acuerdo en este aspecto. Espero que en un futuro podamos mejorar nuestras relaciones.</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Creo que es conveniente que establezcamos una fuerte alianza para hacer frente a los enemigos que nos amenazan. </Text>
+		</Row>
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Magnifica decisión, tiene todo nuestro apoyo.</Text>
+		</Row>
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Sus decisiones no están siendo bien recibidas en mi país. Le agradecería que, en adelante, guardara un mayor respeto hacia en pueblo catalán.</Text>
+		</Row>
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Sus tropas han sido vistas muy cerca de nuestras fronteras y su presencia inquieta a mi pueblo. Por el bien de todos, le pido formalmente que las mantenga alejadas.</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>{LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY}</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>{LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY}</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Eso representa una ofensa a mi país. No olvidaremos sus actos.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Me veo en la obligación de denunciarlo. No puede permitir que siga faltándonos al respeto. El mundo debe saber que tipo de líder es. Espero que sus ciudadanos le arrebaten el poder antes de que sea tarde.</Text>
+		</Row>
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Esperaba poder reconducir la situación, pero llegados a este punto, lucharemos hasta su rendición.</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>No podemos seguir tolerando sus ofensas. No nos deja otra alternativa.</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Espero que este trato abra una nueva etapa de paz duradera entre nuestros pueblos.</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>No puedo aceptar ese trato. No es justo para mi pueblo.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Espero que este trato abra una nueva etapa de paz duradera entre nuestros pueblos.</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>Puedes vencer a nuestro ejercito y conquistar nuestras tierras, con anterioridad ya lo han conseguidos otro imperios, pero siempre volvemos. Mas tarde o mas temprano volveremos a ser libres. TORNAREM A SER LLIURES!!! </Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CAT_FRANCESC_MACIA_ANY" Language="es_ES">
+			<Text>{LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CAT_FRANCESC_MACIA_ANY}</Text>
+		</Row>
+
+
+
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_FRUITFUL_ENGINEER_NAME" Language="es_ES">
+			<Text>Ingeniero fructífero</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_FRUITFUL_ENGINEER_DESCRIPTION" Language="es_ES">
+			<Text>Las factorias generan el doble de [Icon_production].</Text>
+		</Row>
+
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CAT_COMMERCIAL_TRADITION_NAME" Language="es_ES">
+			<Text>Tradición comercial</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CAT_COMMERCIAL_TRADITION_DESCRIPTION" Language="es_ES">
+			<Text>Tus rutas comerciales [ICON_TradeRoute] con otras civilizaciones proporcionan +2 de Oro [Icon_Gold]. Las rutas comerciales [ICON_TradeRoute] de otras civilizaciones con la Cataluña les proporcionan +2 de Alimentos [Icon_Food] a dichas civilizaciones y +2 de Oro [Icon_Gold] a Cataluña </Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CAT_PLAYGROUND_WORLD_NAME" Language="es_ES">
+			<Text>Destino turistico</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_CAT_PLAYGROUND_WORLD_DESCRIPTION" Language="es_ES">
+			<Text>Se duplica el turismo [Icon_Tourism] de cada ciudad a partir de la Era Moderna</Text>
+		</Row>
+		<!-- UNITS TRAITS -->
+		<Row Tag="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_ALMOGAVER_NAME" Language="es_ES">
+			<Text>Miedo</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_ALMOGAVER_DESCRIPTION" Language="es_ES">
+			<Text>-5 a [Icon_Strength] de los enemigos adjacentes a Almogavers</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_MIQUELET_NAME" Language="es_ES">
+			<Text>Defensores de la tierra</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_MIQUELET_DESCRIPTION" Language="es_ES">
+			<Text>
+				<!--{LOC_ABILITY_NAGAO_DESCRIPTION}--> {LOC_ABILITY_COSSACK_DESCRIPTION} </Text>
+		</Row>
+
+	<!-- BUILDINGS TRAITS -->
+		<Row Tag="LOC_BUILDING_CAT_CUSTOM_NAME" Language="es_ES">
+			<Text>Barbarian Hate Club</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CAT_CUSTOM_DESCRIPTION" Language="es_ES">
+			<Text>+1 [Icon_Strength] Combat Strength Vs Barbarians for each Hate Club built.</Text>
+		</Row>
+
+<!-- TEXT UNITS-->
+		<Row Tag="LOC_UNIT_CAT_ALMOGAVERS_NAME" Language="es_ES">
+			<Text>Almogàver</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CAT_ALMOGAVERS_DESCRIPTION" Language="es_ES">
+			<Text>
+				Unidad barata y sencilla pero fuerte debido a su ferocidad. {LOC_ABILITY_HEAL_NEUTRAL_TERRITORY_DESCRIPTION}
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CAT_ALMOGAVERS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>
+				Los almogávares fueron unas tropas de choque de la Corona de Aragón formadas por infantería ligera, activos en el Mediterráneo entre los siglos XIII y XIV. Son equivalentes a los entonces llamados peones en Castilla.[NEWLINE][NEWLINE]
+				Estas tropas estaban integradas principalmente por oficiales aragoneses y catalanes, y una tropa que en su origen estuvo formada por campesinos y pastores oriundos de los valles pirenaicos, y en la época de su mayor actividad procedían de toda la Corona de Aragón, incluidos valencianos, mallorquines, sicilianos, sardos, calabreses, occitanos e incluso griegos y turcos, así como gallegos y asturianos que se unieron a las tropas del rey de Aragón durante la expedición por el imperio bizantino, teniendo como lenguas de habla y comunicación exclusivamente el aragonés y el catalán, pues jamás lo hicieron en castellano[NEWLINE][NEWLINE]
+				Los almogávares se habían arruinado por las continuas incursiones contra las tropas árabes y actuaron como mercenarios al servicio del rey de Aragón. Se caracterizaban por ser tropas de choque de infantería que combatían a pie, con armas y bagajes ligeros, generalmente con un par de lanzas cortas (azconas), un cuchillo largo (llamado coltell) y a veces un pequeño escudo redondo como única defensa. Llevaban la barba crecida y vestían pobremente, únicamente un camisón corto (tanto en verano como en invierno), llevaban un grueso cinturón de cuero y calzaban abarcas de cuero. Además siempre llevaban consigo una buena piedra de fuego, con la que antes de entrar en batalla solían golpear sus armas, por lo que estas echaban unas enormes chispas, que unidas a sus terribles gritos, aterrorizaban a sus enemigos. De gran valor y fiereza, entraban en combate al grito de «Desperta Ferro! Matem, matem», «San Jorge!» o «Aragón!».
+			</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CAT_MIQUELETS_NAME" Language="es_ES">
+			<Text>Miquelet</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CAT_MIQUELETS_DESCRIPTION" Language="es_ES">
+			<Text>
+				Guerrilla de voluntarios y mercenarios defensores de su tierra. <!--{LOC_ABILITY_NAGAO_DESCRIPTION}--> {LOC_ABILITY_COSSACK_DESCRIPTION}
+			</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CAT_MIQUELETS_CHAPTER_HISTORY_PARA_1" Language="es_ES">
+			<Text>
+				Los migueletes (en catalán, "micalets" o "miquelets") eran los miembros de la milicia de carácter mercenario o voluntario, reclutada por las diputaciones y las juntas de la Corona de Aragón (principalmente en los territorios de Cataluña y del Reino de Valencia), para acciones especiales o como refuerzo de las fuerzas regulares. El miguelete, como tal, es el nombre que recibía un mercenario catalán durante la "Guerra dels segadors", el conflicto armado que enfrentó a la Generalidad de Cataluña con el rey Felipe IV durante el conflictivo programa centralizador iniciado por el Conde-Duque de Olivares (la Unión de Armas). De aquí procede la denominación de migueletes para referirse al cuerpo armado que, paradójicamente, sobrevivió a esta guerra y popularizó al Principado de Cataluña entre los siglos XVII-XIX.[NEWLINE][NEWLINE]
+				A menudo sus acciones rozaron el guerrillerismo y el bandolerismo . Su armamento , como hemos señalado , era singular : fusil o escopeta , un par de pistolas , sable, etc . Tenían , por tanto, mucha potencia de fuego y armas de precisión aptos para atacar de lejos . No luchaban en orden cerrado sino dispersos , aprovechando las características del terreno , la emboscada y la sorpresa . De hecho , eran el equivalente a lo que luego serían las compañías de fusileros de montaña , la infantería ligera , los voltigeurs o el green jackets . Eran unidades de élite con una capacidad combativa muy superior a las unidades convencionales de infantería de línea , siempre que lucharan en espacios propios.
+			</Text>
+		</Row>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</LocalizedText>
+</GameData>

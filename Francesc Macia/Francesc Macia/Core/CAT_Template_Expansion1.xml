@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Expansion 1 specific data -->
+<!--##### Created by Chris 'ADLER' Fulford.  Please do not replicate graphics or art work without express permission.  I may be contacted via Steam http://steamcommunity.com/profiles/76561197970522546  or  https://forums.civfanatics.com/members/reichadler.295994/ or chris@our-world.org Please feel free to utilise any aspect of the code contained herein for your own mod. But carte-blanche copying or cloning, or uploading virtually identical mods is absolutely not acceptable.  If in doubt, ask first.  This is how I put bread in my mouth, so be fair.  11 February 2018 #####-->
+<GameInfo>
+
+		<!--CIV CHANGES-->
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_GERMANY" TraitType="TRAIT_CIVILIZATION_BUILDING_TSIKHE"/>
+		<Row CivilizationType="CIVILIZATION_GERMANY" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_POLDER"/>
+		<Row CivilizationType="CIVILIZATION_GERMANY" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_GOLF_COURSE"/>
+	</CivilizationTraits>
+
+
+		<!--UNIT CHANGES-->
+	<TypeTags>
+		<Row Type="UNIT_ADLER2_PARA" Tag="CLASS_PARADROP"/>
+		<Row Type="UNIT_ADLER2_PARA" Tag="CLASS_SNIPER"/>	
+		
+		<Row Type="UNIT_ADLER2_FIELD_CANNON" Tag="CLASS_TARGETTING_ASSIST"/>
+		<Row Type="UNIT_ADLER2_ARTILLERY" Tag="CLASS_TARGETTING_ASSIST"/>
+		<Row Type="UNIT_ADLER2_ROCKET_ARTILLERY" Tag="CLASS_TARGETTING_ASSIST"/>
+	
+	</TypeTags>
+
+	
+	
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_ADLER2_CONQ" ReplacesUnitType="UNIT_PIKE_AND_SHOT"/>
+		<Row CivUniqueUnitType="UNIT_ADLER2_PARA" ReplacesUnitType="UNIT_SPEC_OPS"/>
+	</UnitReplaces>
+	
+	
+	
+</GameInfo>

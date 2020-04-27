@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="Icons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_FRANCESC_MACIA_256"/>
+			<m_ObjectName text="ICON_FRANCESC_MACIA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FRANCESC_MACIA_80"/>
+			<m_ObjectName text="ICON_FRANCESC_MACIA_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FRANCESC_MACIA_64"/>
+			<m_ObjectName text="ICON_FRANCESC_MACIA_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FRANCESC_MACIA_55"/>
+			<m_ObjectName text="ICON_FRANCESC_MACIA_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FRANCESC_MACIA_50"/>
+			<m_ObjectName text="ICON_FRANCESC_MACIA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FRANCESC_MACIA_45"/>
+			<m_ObjectName text="ICON_FRANCESC_MACIA_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_FRANCESC_MACIA_32"/>
+			<m_ObjectName text="ICON_FRANCESC_MACIA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_256"/>
+			<m_ObjectName text="ICON_CAT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_80"/>
+			<m_ObjectName text="ICON_CAT_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_64"/>
+			<m_ObjectName text="ICON_CAT_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_55"/>
+			<m_ObjectName text="ICON_CAT_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_50"/>
+			<m_ObjectName text="ICON_CAT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_45"/>
+			<m_ObjectName text="ICON_CAT_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_32"/>
+			<m_ObjectName text="ICON_CAT_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_200"/>
+			<m_ObjectName text="ICON_CAT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_128"/>
+			<m_ObjectName text="ICON_CAT_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_22"/>
+			<m_ObjectName text="ICON_CAT_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_30"/>
+			<m_ObjectName text="ICON_CAT_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_36"/>
+			<m_ObjectName text="ICON_CAT_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_44"/>
+			<m_ObjectName text="ICON_CAT_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CAT_48"/>
+			<m_ObjectName text="ICON_CAT_48"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

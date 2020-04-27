@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconTextureAtlases>
+		<!--Leader Icons-->
+		
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_32.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_45.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_50.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_55.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_64.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_80.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_256.dds"/>
+		<!-- -->
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_200.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_128.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_48.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_44.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_36.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_30.dds"/>
+		<Row Name="ICON_ATLAS_FRANCESC_MACIA" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_FRANCESC_MACIA_22.dds"/>
+		<!--CIV Icons-->
+
+		<Row Name="ICON_ATLAS_CAT" IconSize="32"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_32.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="45"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_45.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="50"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_50.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="55"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_55.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="64"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_64.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="80"  IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_80.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_256.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="200" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_200.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_128.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="48" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_48.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="44" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_44.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="36" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_36.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="30" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_30.dds"/>
+		<Row Name="ICON_ATLAS_CAT" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_CAT_22.dds"/>
+
+		<!-- UNIT Icons-->
+		<Row Name="ICON_ATLAS_CAT_UNIT_ALMOGAVER" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_ALMOGAVER_256.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_ALMOGAVER" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_ALMOGAVER_80.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_ALMOGAVER" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_ALMOGAVER_50.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_ALMOGAVER" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_ALMOGAVER_38.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_ALMOGAVER" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_ALMOGAVER_32.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_ALMOGAVER" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_ALMOGAVER_22.dds"/>
+
+		<Row Name="ICON_ATLAS_CAT_UNIT_MIQUELET" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_MIQUELETS_256.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_MIQUELET" IconSize="80" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_MIQUELETS_80.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_MIQUELET" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_MIQUELETS_50.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_MIQUELET" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_MIQUELETS_38.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_MIQUELET" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_MIQUELETS_32.dds"/>
+		<Row Name="ICON_ATLAS_CAT_UNIT_MIQUELET" IconSize="22" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_MIQUELETS_22.dds"/>
+
+		<!-- SAGRADA FAMILIA Icons-->
+		<Row Name="ICON_ATLAS_SAGRADA_FAMILIA" IconSize="256" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAGRADA_FAMILIA_256.dds"/>
+		<Row Name="ICON_ATLAS_SAGRADA_FAMILIA" IconSize="128" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAGRADA_FAMILIA_128.dds"/>
+		<Row Name="ICON_ATLAS_SAGRADA_FAMILIA" IconSize="64" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAGRADA_FAMILIA_64.dds"/>
+		<Row Name="ICON_ATLAS_SAGRADA_FAMILIA" IconSize="50" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAGRADA_FAMILIA_50.dds"/>
+		<Row Name="ICON_ATLAS_SAGRADA_FAMILIA" IconSize="38" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAGRADA_FAMILIA_38.dds"/>
+		<Row Name="ICON_ATLAS_SAGRADA_FAMILIA" IconSize="32" IconsPerRow="1" IconsPerColumn="1" Filename="ICON_SAGRADA_FAMILIA_32.dds"/>
+
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<!--Leader Icons-->
+		<Row Name="ICON_LEADER_CAT_FRANCESC_MACIA" Atlas="ICON_ATLAS_FRANCESC_MACIA" Index="0"/>
+
+		<!--Civilization Icons-->
+		<Row Name="ICON_CIVILIZATION_CAT" Atlas="ICON_ATLAS_CAT" Index="0"/>
+
+
+		<!--Building Icons-->
+		<Row Name="ICON_BUILDING_CAT_CUSTOM" Atlas="ICON_ATLAS_CIVICS" Index="29"/>/
+		<Row Name="ICON_BUILDING_SAGRADA_FAMILIA" Atlas="ICON_ATLAS_SAGRADA_FAMILIA" Index="0"/>/
+
+
+		<!-- Unit Icons-->
+		<Row Name="ICON_UNIT_CAT_ALMOGAVERS" Atlas="ICON_ATLAS_CAT_UNIT_ALMOGAVER" Index="0"/>
+		<Row Name="ICON_UNIT_CAT_MIQUELETS" Atlas="ICON_ATLAS_CAT_UNIT_MIQUELET" Index="0"/>
+
+	</IconDefinitions>
+</GameData>

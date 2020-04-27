@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+
+	<Types>
+		<Row Type="UNIT_CAT_ALMOGAVERS" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_CAT_MIQUELETS" Kind="KIND_UNIT"/>
+		<Row Type="CAT_FRANCESC_MACIA_DAMAGE_REDUCTION" Kind="KIND_MODIFIER"/>
+		<Row Type="CAT_FRANCESC_MACIA_DEFENDER" Kind="KIND_MODIFIER"/>
+		<Row Type="CAT_FRANCESC_MACIA_ABILITY_FEAR" Kind="KIND_ABILITY"/>
+		<Row Type="CAT_FRANCESC_MACIA_ABILITY_DEFENDER" Kind="KIND_ABILITY"/>
+	</Types>
+	<Units>
+		<!--<Row UnitType="UNIT_ADLER2_AXE" BaseMoves="2" Cost="165" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true"
+		   Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_ADLER2_AXE_NAME"
+		   Description="LOC_UNIT_ADLER2_AXE_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE"
+		   Maintenance="3" Combat="45" MandatoryObsoleteTech="TECH_MILITARY_SCIENCE" PrereqTech="TECH_MILITARY_TACTICS" TraitType="TRAIT_LEADER_ADLER2_UNITS" StrategicResource="RESOURCE_IRON"/>-->
+		<Row UnitType="UNIT_CAT_ALMOGAVERS" BaseMoves="2" Cost= "50" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_CAT_ALMOGAVERS_NAME" Description="LOC_UNIT_CAT_ALMOGAVERS_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Combat="36"  PrereqTech="TECH_BRONZE_WORKING" MandatoryObsoleteTech="TECH_GUNPOWDER" TraitType="TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_ALMOGAVER"/>   
+		<Row UnitType="UNIT_CAT_MIQUELETS" BaseMoves="2" Cost="120" AdvisorType="ADVISOR_CONQUEST" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" FormationClass="FORMATION_CLASS_LAND_COMBAT" Name="LOC_UNIT_CAT_MIQUELETS_NAME" Description="LOC_UNIT_CAT_MIQUELETS_DESCRIPTION" PurchaseYield="YIELD_GOLD" PromotionClass="PROMOTION_CLASS_MELEE" Maintenance="3" Combat="50" MandatoryObsoleteTech="TECH_SATELLITES" PrereqTech="TECH_GUNPOWDER" StrategicResource="RESOURCE_NITER" TraitType="TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_MIQUELET"/>	
+	</Units>
+
+	<!--<UnitUpgrades>
+		<Row Unit="UNIT_CAT_ALMOGAVERS" UpgradeUnit="UNIT_CAT_MIQUELETS"/>
+		 <Row Unit="UNIT_ADLER2_SWORDSMAN" UpgradeUnit="UNIT_ADLER2_AXE"/
+	</UnitUpgrades>>-->
+	
+
+	<!--<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_CAT_ALMOGAVERS" ReplacesUnitType="UNIT_SWORDSMAN"/>
+		<Row CivUniqueUnitType="UNIT_CAT_MIQUELETS" ReplacesUnitType="UNIT_MUSKETMAN"/>
+	</UnitReplaces>-->
+
+	
+	<UnitAIInfos>
+		<Row UnitType="UNIT_CAT_ALMOGAVERS" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_CAT_ALMOGAVERS" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_CAT_ALMOGAVERS" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_CAT_ALMOGAVERS" AiType="UNITTYPE_LAND_COMBAT"/>
+		<Row UnitType="UNIT_CAT_MIQUELETS" AiType="UNITAI_COMBAT"/>
+		<Row UnitType="UNIT_CAT_MIQUELETS" AiType="UNITAI_EXPLORE"/>
+		<Row UnitType="UNIT_CAT_MIQUELETS" AiType="UNITTYPE_MELEE"/>
+		<Row UnitType="UNIT_CAT_MIQUELETS" AiType="UNITTYPE_LAND_COMBAT"/>
+	</UnitAIInfos>
+
+	<Tags>
+		<Row Tag="CLASS_CAT_ALMOGAVERS" Vocabulary="ABILITY_CLASS"/>
+		<Row Tag="CLASS_CAT_MIQUELETS" Vocabulary="ABILITY_CLASS"/>
+	</Tags>
+	
+	<TypeTags>
+		<Row Type="UNIT_CAT_ALMOGAVERS" Tag="CLASS_CAT_ALMOGAVERS"/>
+		<Row Type="UNIT_CAT_MIQUELETS" Tag="CLASS_CAT_MIQUELETS"/>
+		<Row Type="CAT_FRANCESC_MACIA_ABILITY_FEAR" Tag="CLASS_CAT_ALMOGAVERS"/>
+		<Row Type="CAT_FRANCESC_MACIA_ABILITY_DEFENDER" Tag="CLASS_CAT_MIQUELETS"/>
+	</TypeTags>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="CAT_FRANCESC_MACIA_ABILITY_FEAR" Name="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_ALMOGAVER_NAME" Description="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_ALMOGAVER_DESCRIPTION"/>
+		<Row UnitAbilityType="CAT_FRANCESC_MACIA_ABILITY_DEFENDER" Name="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_MIQUELET_NAME" Description="LOC_TRAIT_LEADER_CAT_FRANCESC_MACIA_UNIT_MIQUELET_DESCRIPTION"/>
+	</UnitAbilities>
+	
+	<UnitAbilityModifiers>
+		<Row>
+			<UnitAbilityType>CAT_FRANCESC_MACIA_ABILITY_FEAR</UnitAbilityType>
+			<ModifierId>ALMOGAVER_NEGATIVE_COMBAT</ModifierId>
+		</Row>
+		<Row>
+			<UnitAbilityType>CAT_FRANCESC_MACIA_ABILITY_DEFENDER</UnitAbilityType>
+			<ModifierId>CAT_FRANCESC_MACIA_DEFENDER</ModifierId>
+		</Row>
+	</UnitAbilityModifiers>
+		
+	<MajorStartingUnits>
+		<Row Era="ERA_ANCIENT" Unit="UNIT_CAT_ALMOGAVERS"/>
+		<Row Era="ERA_ANCIENT" Unit="UNIT_CAT_MIQUELETS"/>
+	</MajorStartingUnits>
+	
+</GameData>
