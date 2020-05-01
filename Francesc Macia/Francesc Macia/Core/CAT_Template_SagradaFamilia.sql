@@ -9,14 +9,17 @@
 --------------------------------------------------------------------------------------------------------------------------	
 INSERT INTO Types	
 		(Type,									Kind)
-VALUES	('BUILDING_SAGRADA_FAMILIA',		'KIND_BUILDING');		
+VALUES	('BUILDING_SAGRADA_FAMILIA',		'KIND_BUILDING'),
+		('SAGRADA_FAMILIA_APPEAL',			'KIND_MODIFIER'),		
+		('SAGRADA_FAMILIA_TOURISM',			'KIND_MODIFIER');
 --------------------------------------------------------------------------------------------------------------------------
 --
 -- Building_YieldChanges
 -------------------------------------------------------------------------------------------------------------------------
 INSERT INTO Building_YieldChanges	
 		(BuildingType,							YieldType,						YieldChange)
-VALUES	('BUILDING_SAGRADA_FAMILIA',			'YIELD_CULTURE',						4);
+VALUES	('BUILDING_SAGRADA_FAMILIA',			'YIELD_CULTURE',					4),
+		('BUILDING_SAGRADA_FAMILIA',			'YIELD_GOLD',						10);
 -------------------------------------------------------------------------------------------------------------------------
 --
 -- Buildings
@@ -35,26 +38,24 @@ VALUES	('BUILDING_SAGRADA_FAMILIA',			'GREAT_PERSON_CLASS_ENGINEER',		2);
 -------------------------------------
 INSERT INTO BuildingModifiers
 		(BuildingType,									ModifierId)
-VALUES	('BUILDING_SAGRADA_FAMILIA',					'SAGRADA_FAMILIA_MONEY_YIELD'),
-		('BUILDING_SAGRADA_FAMILIA',					'SAGRADA_FAMILIA_APPEAL'),
+VALUES	('BUILDING_SAGRADA_FAMILIA',					'SAGRADA_FAMILIA_APPEAL'),
 		('BUILDING_SAGRADA_FAMILIA',					'SAGRADA_FAMILIA_TOURISM');
 -------------------------------------			
 -- Modifiers
 -------------------------------------					
 INSERT INTO Modifiers			
 		(ModifierId,										ModifierType,												SubjectRequirementSetId)
-VALUES	('SAGRADA_FAMILIA_MONEY_YIELD',						'MODIFIER_SINGLE_CITY_ADJUST_CITY_YIELD_MODIFIER',			NULL),
-		('SAGRADA_FAMILIA_APPEAL',							'MODIFIER_SINGLE_CITY_ADJUST_CITY_APPEAL',					NULL),
-		('SAGRADA_FAMILIA_TOURISM',							'MODIFIER_PLAYER_ADJUST_TOURISM',							NULL);
+VALUES	('SAGRADA_FAMILIA_APPEAL',							'MODIFIER_SINGLE_CITY_ADJUST_CITY_APPEAL',					NULL),
+		('SAGRADA_FAMILIA_TOURISM',							'MODIFIER_SINGLE_CITY_ADJUST_TOURISM',						NULL);
 
 -------------------------------------
 -- ModifierArguments
 -------------------------------------
 INSERT INTO ModifierArguments
 		(ModifierId,								Name,					Value)
-VALUES	('SAGRADA_FAMILIA_MONEY_YIELD',				'Amount',				'10'),
-		('SAGRADA_FAMILIA_MONEY_YIELD',				'YieldType',			'YIELD_GOLD'),
-		('SAGRADA_FAMILIA_APPEAL',					'Amount',				'1'),
-		('SAGRADA_FAMILIA_TOURISM',					'Amount',				'20');	
+VALUES	('SAGRADA_FAMILIA_APPEAL',					'Amount',				'1'),
+		('SAGRADA_FAMILIA_TOURISM',					'ScalingFactor',		'200');	
 --==========================================================================================================================
 --==========================================================================================================================
+/*DELETE FROM MajorStartingUnits WHERE Unit ='UNIT_CAT_ALMOGAVERS' AND Era = 'ERA_ANCIENT'
+DELETE FROM MajorStartingUnits WHERE Unit ='UNIT_CAT_MIQUELETS' AND Era = 'ERA_ANCIENT'*/
